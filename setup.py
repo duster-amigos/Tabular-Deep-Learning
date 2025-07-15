@@ -8,7 +8,7 @@ setuptools.setup(
     name="tabular-transformers",
     version="0.1.0",
     author="Shivansh Gupta",
-    author_email="duster.amigos05.com",
+    author_email="duster.amigos05@gmail.com",
     description="Production-ready PyTorch implementations of Transformers for tabular data (numerical/categorical, multi-output, multi-label)",
     long_description=long_description,
     long_description_content_type="text/markdown",
