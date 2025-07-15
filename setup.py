@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="tabular-transformers",
-    version="0.1.0",
+    version="0.1.1",
     author="Shivansh Gupta",
     author_email="duster.amigos05@gmail.com",
     description="Production-ready PyTorch implementations of Transformers for tabular data (numerical/categorical, multi-output, multi-label)",
