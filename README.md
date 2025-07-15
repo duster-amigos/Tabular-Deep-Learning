@@ -227,12 +227,8 @@ TabTransformer/
 ## References
 - [TabTransformer: Tabular Data Modeling Using Contextual Embeddings (arXiv:2012.06678)](https://arxiv.org/pdf/2012.06678)
 - [Revisiting Deep Learning Models for Tabular Data (FTTransformer, arXiv:2106.11959v2)](https://arxiv.org/pdf/2106.11959v2)
-- [Unofficial PyTorch Reference](https://github.com/lucidrains/tab-transformer-pytorch)
 
 ---
-
-## License
-MIT License
 
 ---
 
@@ -262,9 +258,4 @@ python setup.py sdist bdist_wheel
 ```bash
 pip install tabtransformer-pytorch
 ```
-
-5. **(Optional) Add badges, version, and PyPI link to this README.**
-
 ---
-
-**This project is production-ready and suitable for open-source/public release.** 
