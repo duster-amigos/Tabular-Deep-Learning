@@ -24,7 +24,7 @@ Both models are designed for **numerical and categorical tabular data**, support
 
 ### 1. From PyPI (recommended for users)
 ```bash
-pip install tabtransformer-pytorch  # (replace with actual PyPI name)
+pip install tabular-transformers
 ```
 
 ### 2. From Source (for development)
